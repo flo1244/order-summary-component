@@ -1,0 +1,32 @@
+/**** GLOBAL STYLES ****/
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Red Hat Display', sans-serif;
+	font-size: 16px;
+}
+
+
+/**** MOBILE FIRST STYLES ****/
+
+
+
+
+/**** MEDIA QEURIES ****/
+@media only screen and (min-width: 768px) {
+	/*Tablet styles */
+	
+}
+
+@media only screen and (min-width: 1200px) {
+	/*Desktop styles */
+	
+}
